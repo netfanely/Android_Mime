@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mime</string>
+    <string name="mensaje">Mensajes Positivos de Motivación y Emprendimientos</string>
+    <string name="crear_cuenta">Crear una cuenta</string>
+    <string name="tienes_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+</resources>
